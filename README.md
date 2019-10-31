@@ -1,1 +1,1 @@
-CPCS-1430-Programming-&-Prob-Solving 1
+CPSC-1430-Programming-&-Prob-Solving 1
